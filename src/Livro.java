@@ -16,5 +16,14 @@ public class Livro {
     return titulo;
     }
 
+    public String getAutor(){
+        return autor;
+    }
 
-}
+    public double getPontuacao() {
+        return pontuacao;
+    }
+
+    }
+
+
